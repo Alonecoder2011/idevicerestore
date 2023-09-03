@@ -1,4 +1,5 @@
 #!/bin/sh
+#balls
 
 olddir=`pwd`
 srcdir=`dirname $0`
